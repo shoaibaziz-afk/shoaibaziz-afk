@@ -10,3 +10,5 @@ My best project is a collaboration with three other people in which we made a sm
 Reach me on shoaib.aziz.space@gmail.com / www.linkedin.com/in/shoaib-aziz-a02374223
 
 Fun fact: I am a foreign language learning enthusiast with official B1 in Spanish and A2 in Russian. I really adore this skill of mine becuase communication with someone in their native tongue really gives us an upper hand in negotiations and moreover everyone appreciates the efforts a foreigner made to learn their language. 
+
+Also please find a link to my engineering design work: https://sites.google.com/view/shoaibaziz-portfolio?usp=sharing
