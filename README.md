@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi there 👋. My name is Shoaib Aziz. 
+** Python | C++ for GNC and space missions applications.
 
+I am currently learning backend development with skills such as python, C, docker, SQL, OOPS, Linux, Git, DSA, Go.
+I'm currently working on solving orbital mechanics problems in python and C. I am also learning HTTP clients and servers.
+I am looking to collaborate on projects related to orbital mechanics/control and projects that offer an attractive blend of these concepts with the above stated backend skills.
 <!--
 **shoaibaziz-afk/shoaibaziz-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
