@@ -1,7 +1,7 @@
 ## Hi there 👋. My name is Shoaib Aziz. 
 ** Python | C | Git | Linux for GNC and space missions applications.
 
-I am currently learning backend development with skills such as python, C, docker, SQL, OOPS, Linux, Git, DSA, Go.
+I am currently learning backend development with skills such as Python, C, Docker, SQL, OOPS, Linux, Git, DSA, Golang.
 I'm currently working on solving orbital mechanics problems in python and C. I am also learning HTTP clients and servers.
 I am looking to collaborate on projects related to orbital mechanics/control and projects that offer an attractive blend of these concepts with the above stated backend skills.
 
